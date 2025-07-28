@@ -6,3 +6,4 @@
 - I love simplicity and maintainable code. I mean, who doesn't love maintainable code?
 - AI is a great productivity tool
 - I love VS Code
+- My GitHub birthday is January 23rd, 2022.
